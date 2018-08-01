@@ -1,0 +1,2 @@
+pixiedust==1.1.11
+pixiedust_node==0.2.5
